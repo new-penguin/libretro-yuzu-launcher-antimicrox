@@ -36,7 +36,7 @@ Download the Linux core from releases and skip to step 2 or...
   flatpak run org.yuzu_emu.yuzu
   flatpak run io.github.antimicrox.antimicrox
   ```
-  You can also use the appimage versions of the respective programs. Just copy both to your ~/.config/retroarch/system folder and make sure they're named yuzu.AppImage and antimicrox.AppImage.
+You can also use the appimage versions of the respective programs. Just copy both to your ~/.config/retroarch/system folder and make sure they're named yuzu.AppImage and antimicrox.AppImage. Just don't forget to make the files executable.
 
 ## Usage
 
